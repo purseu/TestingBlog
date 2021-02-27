@@ -1,6 +1,7 @@
 # <big>Software Testing</big>
 
-- 本文档是作者从事```软件测试```以来的学习历程。
+- **生活不止生活，工作不止工作。**
+- **开启每天好心情。**:smile:
 
 [GitHub](<https://github.com/purseu/TestingBlog>)
 [开始阅读](README.md)
